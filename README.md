@@ -1,1 +1,1 @@
-# Stylumia_assignment
+# extracting-attributes-from-fashion
